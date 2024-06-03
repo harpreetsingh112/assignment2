@@ -1,0 +1,14 @@
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\obj\Debug\net6.0\Assignment_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\obj\Debug\net6.0\Assignment_02.AssemblyInfoInputs.cache
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\obj\Debug\net6.0\Assignment_02.AssemblyInfo.cs
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\obj\Debug\net6.0\Assignment_02.csproj.CoreCompileInputs.cache
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\bin\Debug\net6.0\Assignment_02.exe
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\bin\Debug\net6.0\Assignment_02.deps.json
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\bin\Debug\net6.0\Assignment_02.runtimeconfig.json
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\bin\Debug\net6.0\Assignment_02.dll
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\bin\Debug\net6.0\Assignment_02.pdb
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\obj\Debug\net6.0\Assignment_02.dll
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\obj\Debug\net6.0\refint\Assignment_02.dll
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\obj\Debug\net6.0\Assignment_02.pdb
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\obj\Debug\net6.0\Assignment_02.genruntimeconfig.cache
+C:\Users\harpr\Downloads\Software Quality\Assignment_02\Assignment_02\obj\Debug\net6.0\ref\Assignment_02.dll
